@@ -168,6 +168,7 @@ git push origin master
    vim hello_world.cpp
    ```
   Код был изменён на:
+    
     ```c++
     #include <iostream>
     #include <string>
